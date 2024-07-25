@@ -1,5 +1,5 @@
 pre-commit:
   commands:
-    cat:
+    prettier:
       glob: "files/*.json"
-      run: cat {staged_files}
+      run: pnpm prettier {staged_files}
