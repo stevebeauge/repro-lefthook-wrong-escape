@@ -1,0 +1,15 @@
+{
+  "name": "lefthook-wrong-escape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steve Beaugé",
+  "license": "ISC",
+  "devDependencies": {
+    "lefthook": "^1.7.7"
+  }
+}

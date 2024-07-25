@@ -1,0 +1,5 @@
+pre-commit:
+  commands:
+    cat:
+      glob: "files/*.json"
+      run: cat {staged_files}
